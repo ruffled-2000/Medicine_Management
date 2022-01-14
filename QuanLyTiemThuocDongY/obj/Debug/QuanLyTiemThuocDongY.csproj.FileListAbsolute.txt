@@ -1,0 +1,128 @@
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojAssemblyReference.cache
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.formDangNhap.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.cache
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.CoreCompileInputs.cache
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKe.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDiencontrol.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuocControl.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuocControl.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHangControl.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.frmDoiMatKhau.resources
+G:\BTSQLvsWinforms\BTL2\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojResolveAssemblyReference.cache
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDienControl.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.Cache
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DangNhap.resources
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DoiMatKhau.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojAssemblyReference.cache
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DangNhap.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DoiMatKhau.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDienControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHangControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuocControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuocControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKe.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.cache
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.CoreCompileInputs.cache
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL3-Codesign\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojAssemblyReference.cache
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DangNhap.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DoiMatKhau.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDienControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHangControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuocControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuocControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKe.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.XemHoaDon.resources
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.cache
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.CoreCompileInputs.cache
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL4\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+E:\Kỳ 5\Lập trình Windows\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.XemHoaDon.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojAssemblyReference.cache
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DangNhap.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DoiMatKhau.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDienControl.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.XemHoaDon.resources
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.cache
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.CoreCompileInputs.cache
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+G:\BTSQLvsWinforms\BTL5\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe.config
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.exe
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.pdb
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.exe
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\bin\Debug\QuanLyTiemThuocDongY.pdb
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csprojResolveAssemblyReference.cache
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DangNhap.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.DoiMatKhau.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDien.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.GiaoDienControl.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.Properties.Resources.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyKhachHang.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyLoaiThuoc.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.TaiKhoanControl.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.QuanLyThuoc.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThemTaiKhoan.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.ThongKeControl.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.XemHoaDon.resources
+C:\Users\LEVULONG\Desktop\LTW\QuanLyTiemThuocDongY\QuanLyTiemThuocDongY\obj\Debug\QuanLyTiemThuocDongY.csproj.GenerateResource.Cache
